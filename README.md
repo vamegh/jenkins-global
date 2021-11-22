@@ -1,2 +1,2 @@
 # jenkins-global
-Jenkins Global Library
+Jenkins Global Library - Provides a bunch of simple functions for managing various tasks
